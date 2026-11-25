@@ -1,0 +1,27 @@
+# Ежедневно обновляет promos.json — акции магазинов для Kazyn Menu
+name: Акции магазинов
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # каждый день в 05:00 по Алматы
+  workflow_dispatch:       # кнопка «Run workflow» для ручного запуска
+
+permissions:
+  contents: write
+
+jobs:
+  promos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Собрать акции
+        run: node tools/promos.mjs
+      - name: Сохранить, если что-то изменилось
+        run: |
+          git config user.name "kazyn-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add promos.json
+          git diff --cached --quiet || (git commit -m "Акции: обновление $(date +%F)" && git push)

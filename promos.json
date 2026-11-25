@@ -1,0 +1,291 @@
+{
+ "updated": "2026-11-25",
+ "city": "almaty",
+ "stores": {
+  "magnum": {
+   "source": "magnum.kz/catalog",
+   "total": 344,
+   "match": {
+    "flour": [
+     {
+      "name": "МУКА «ДОБРАЯ» ПШЕНИЧНАЯ ВЫСШИЙ СОРТ 1,9 КГ",
+      "old": 719,
+      "price": 399,
+      "discount": 45,
+      "from": "2026-11-19",
+      "until": "2026-11-25",
+      "qty": 1900,
+      "unit": "g",
+      "perKg": false
+     },
+     {
+      "name": "МУКА «МAKFA» ПШЕНИЧНАЯ ВЫСШИЙ СОРТ 2 КГ",
+      "old": 1069,
+      "price": 795,
+      "discount": 26,
+      "from": "2026-11-12",
+      "until": "2026-11-25",
+      "qty": 2000,
+      "unit": "g",
+      "perKg": false
+     }
+    ],
+    "pasta": [
+     {
+      "name": "МАКАРОНЫ «СУЛТАН» В АССОРТИМЕНТЕ 400 Г",
+      "old": 519,
+      "price": 349,
+      "discount": 33,
+      "from": "2026-11-19",
+      "until": "2026-11-25",
+      "qty": 400,
+      "unit": "g",
+      "perKg": false
+     },
+     {
+      "name": "МАКАРОНЫ «MAKFA» В АССОРТИМЕНТЕ 400 Г",
+      "old": 575,
+      "price": 495,
+      "discount": 14,
+      "from": "2026-11-12",
+      "until": "2026-11-25",
+      "qty": 400,
+      "unit": "g",
+      "perKg": false
+     },
+     {
+      "name": "МАКАРОНЫ «СУЛТАН» В АССОРТИМЕНТЕ 400 Г",
+      "old": 539,
+      "price": 445,
+      "discount": 17,
+      "from": "2026-11-12",
+      "until": "2026-11-25",
+      "qty": 400,
+      "unit": "g",
+      "perKg": false
+     }
+    ],
+    "milk": [
+     {
+      "name": "МОЛОКО «ADAL» ПРОДУКТЫ НАШИХ ФЕРМ 2,5% 925 МЛ",
+      "old": 809,
+      "price": 529,
+      "discount": 35,
+      "from": "2026-11-19",
+      "until": "2026-11-25",
+      "qty": 925,
+      "unit": "g",
+      "perKg": false
+     },
+     {
+      "name": "МОЛОКО «МОЕ» 2,5% 950 МЛ",
+      "old": 879,
+      "price": 789,
+      "discount": 10,
+      "from": "2026-11-12",
+      "until": "2026-11-25",
+      "qty": 950,
+      "unit": "g",
+      "perKg": false
+     },
+     {
+      "name": "МОЛОКО «УМУТ И КО» КОРОВЬЕ 3,2% 1 Л",
+      "old": 745,
+      "price": 699,
+      "discount": 6,
+      "from": "2026-11-12",
+      "until": "2026-11-25",
+      "qty": 1000,
+      "unit": "g",
+      "perKg": false
+     }
+    ],
+    "chicken": [
+     {
+      "name": "ФИЛЕ ЦЫПЛЕНКА БРОЙЛЕРА «КУС ВКУС» КГ",
+      "old": 3175,
+      "price": 2399,
+      "discount": 24,
+      "from": "2026-11-19",
+      "until": "2026-11-25",
+      "qty": 1000,
+      "unit": "g",
+      "perKg": true
+     }
+    ],
+    "banana": [
+     {
+      "name": "БАНАН КГ",
+      "old": 999,
+      "price": 799,
+      "discount": 20,
+      "from": "2026-11-19",
+      "until": "2026-11-25",
+      "qty": 1000,
+      "unit": "g",
+      "perKg": true
+     },
+     {
+      "name": "БАНАН КГ",
+      "old": 999,
+      "price": 799,
+      "discount": 20,
+      "from": "2026-11-19",
+      "until": "2026-11-25",
+      "qty": 1000,
+      "unit": "g",
+      "perKg": true
+     }
+    ],
+    "tomato": [
+     {
+      "name": "ТОМАТЫ КАЗАХСТАН КГ",
+      "old": 999,
+      "price": 799,
+      "discount": 20,
+      "from": "2026-11-19",
+      "until": "2026-11-25",
+      "qty": 1000,
+      "unit": "g",
+      "perKg": true
+     }
+    ],
+    "cheese": [
+     {
+      "name": "СЫР «БРЕСТ-ЛИТОВСК» ПОЛУТВЕРДЫЙ КЛАССИЧЕСКИЙ 45% 200 Г",
+      "old": 1649,
+      "price": 1159,
+      "discount": 30,
+      "from": "2026-11-19",
+      "until": "2026-11-25",
+      "qty": 200,
+      "unit": "g",
+      "perKg": false
+     },
+     {
+      "name": "СЫР «ЛАМБЕР»  50% КГ",
+      "old": 10355,
+      "price": 6999,
+      "discount": 32,
+      "from": "2026-11-12",
+      "until": "2026-11-25",
+      "qty": 1000,
+      "unit": "g",
+      "perKg": true
+     }
+    ],
+    "kefir": [
+     {
+      "name": "КЕФИР «FOODMASTER» БИО-С 3,2% 1Л",
+      "old": 909,
+      "price": 669,
+      "discount": 26,
+      "from": "2026-11-19",
+      "until": "2026-11-25",
+      "qty": 1000,
+      "unit": "g",
+      "perKg": false
+     },
+     {
+      "name": "КЕФИР «УМУТ И К» 2,5% 1 Л",
+      "old": 735,
+      "price": 695,
+      "discount": 5,
+      "from": "2026-11-12",
+      "until": "2026-11-25",
+      "qty": 1000,
+      "unit": "g",
+      "perKg": false
+     }
+    ],
+    "butter": [
+     {
+      "name": "МАСЛО СЛИВОЧНОЕ «ПРОДУКТЫ НАШИХ ФЕРМ» 82,5% 180 Г",
+      "old": 1399,
+      "price": 899,
+      "discount": 36,
+      "from": "2026-11-19",
+      "until": "2026-11-25",
+      "qty": 180,
+      "unit": "g",
+      "perKg": false
+     },
+     {
+      "name": "МАСЛО «БЕЛОРУССКИЙ СТАНДАРТ» 82,5% 500Г",
+      "old": 3779,
+      "price": 3555,
+      "discount": 6,
+      "from": "2026-11-12",
+      "until": "2026-11-25",
+      "qty": 500,
+      "unit": "g",
+      "perKg": false
+     }
+    ],
+    "smetana": [
+     {
+      "name": "СМЕТАНА «ADAL» 15% 380 Г",
+      "old": 995,
+      "price": 815,
+      "discount": 18,
+      "from": "2026-11-12",
+      "until": "2026-11-25",
+      "qty": 380,
+      "unit": "g",
+      "perKg": false
+     },
+     {
+      "name": "СМЕТАНА «УМУТ И КО» 20% 700ГР",
+      "old": 1185,
+      "price": 1119,
+      "discount": 6,
+      "from": "2026-11-12",
+      "until": "2026-11-25",
+      "qty": 700,
+      "unit": "g",
+      "perKg": false
+     }
+    ],
+    "egg": [
+     {
+      "name": "ЯЙЦО «ЛУГОВОЕ ПОЛЕ» ВЫСШАЯ КАТЕГОРИЯ 30ШТ",
+      "old": 2999,
+      "price": 2759,
+      "discount": 8,
+      "from": "2026-11-12",
+      "until": "2026-11-25",
+      "qty": 30,
+      "unit": "pc",
+      "perKg": false
+     }
+    ],
+    "rice": [
+     {
+      "name": "РИС «ВСЕ В ДОМ» ДЛЯ ПЛОВА 3 КГ",
+      "old": 2955,
+      "price": 1599,
+      "discount": 46,
+      "from": "2026-11-12",
+      "until": "2026-11-25",
+      "qty": 3000,
+      "unit": "g",
+      "perKg": false
+     }
+    ],
+    "tpaste": [
+     {
+      "name": "ПАСТА ТОМАТНАЯ «ЦИН-КАЗ» 220 Г",
+      "old": 677,
+      "price": 629,
+      "discount": 7,
+      "from": "2026-11-12",
+      "until": "2026-11-25",
+      "qty": 220,
+      "unit": "g",
+      "perKg": false
+     }
+    ]
+   }
+  }
+ }
+}
