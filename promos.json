@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "city": "almaty",
  "stores": {
   "magnum": {
    "source": "magnum.kz/catalog",
-   "total": 304,
+   "total": 312,
    "match": {
     "milk": [
      {
@@ -137,6 +137,28 @@
       "qty": 1000,
       "unit": "g",
       "perKg": true
+     },
+     {
+      "name": "ЯБЛОКИ АССОРТИ В ПАКЕТЕ 1,5 КГ",
+      "old": 749,
+      "price": 549,
+      "discount": 27,
+      "from": "2026-11-27",
+      "until": "2026-11-29",
+      "qty": 1500,
+      "unit": "g",
+      "perKg": false
+     },
+     {
+      "name": "ЯБЛОКИ СВЕЖИЕ В ПАКЕТЕ 1,5 КГ",
+      "old": 749,
+      "price": 549,
+      "discount": 27,
+      "from": "2026-11-27",
+      "until": "2026-11-29",
+      "qty": 1500,
+      "unit": "g",
+      "perKg": false
      }
     ],
     "kefir": [
