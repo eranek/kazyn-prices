@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "city": "almaty",
  "stores": {
   "magnum": {
    "source": "magnum.kz/catalog",
-   "total": 312,
+   "total": 318,
    "match": {
     "milk": [
      {
